@@ -1,5 +1,6 @@
 #write your code here
 
-def countdown
-  sec = 
+def countdown(sec)
+  while sec >= 0
+    puts sec 
 end
